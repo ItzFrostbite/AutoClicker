@@ -7,7 +7,7 @@ passme = True
 pyn = Controller()
 print("What is the time gap between each click (Can be a decimal)")
 num = float(input())
-print("Press Left Control To Start/Stop")
+print("Press S To Start and W To Stop)
 
 print(num)
 def check():
